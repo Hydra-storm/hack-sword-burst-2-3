@@ -1,0 +1,11 @@
+--[[
+░█████╗░░█████╗░███████╗██████╗░██╗██╗░░░██╗███╗░░░███╗
+██╔══██╗██╔══██╗██╔════╝██╔══██╗██║██║░░░██║████╗░████║
+██║░░██║██║░░╚═╝█████╗░░██████╔╝██║██║░░░██║██╔████╔██║
+██║░░██║██║░░██╗██╔══╝░░██╔══██╗██║██║░░░██║██║╚██╔╝██║
+╚█████╔╝╚█████╔╝███████╗██║░░██║██║╚██████╔╝██║░╚═╝░██║
+░╚════╝░░╚════╝░╚══════╝╚═╝░░╚═╝╚═╝░╚═════╝░╚═╝░░░░░╚═╝
+--]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slf0Dev/Goat-poop/main/Ocerium%20SB2"))()
+_G.HideKey = "LeftShift" --if you want, you can change it
+-- note: when you press "invisible" you leave your body, hide before pressing invisible button.
